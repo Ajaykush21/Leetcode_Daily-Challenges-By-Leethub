@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1580-shuffle-the-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1580-shuffle-the-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
