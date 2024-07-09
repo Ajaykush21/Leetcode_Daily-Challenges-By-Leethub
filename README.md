@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1580-shuffle-the-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1791-richest-customer-wealth) |
 | [1803-average-waiting-time](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1803-average-waiting-time) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -32,4 +33,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
