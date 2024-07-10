@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1580-shuffle-the-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1603-running-sum-of-1d-array) |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1791-richest-customer-wealth](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1791-richest-customer-wealth) |
 | [1803-average-waiting-time](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1803-average-waiting-time) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3226-minimum-number-game](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/3226-minimum-number-game) |
 ## Prefix Sum
