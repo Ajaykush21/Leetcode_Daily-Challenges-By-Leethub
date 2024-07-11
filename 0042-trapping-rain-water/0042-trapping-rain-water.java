@@ -16,7 +16,7 @@ class Solution {
 		int sum=0;
 		for(int i=0;i<right.length;i++) {
 			 sum=sum+Math.min(left[i], right[i])-arr[i];
-		}
+		} 
 		return sum;
 		
 		
