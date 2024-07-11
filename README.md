@@ -55,11 +55,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0042-trapping-rain-water) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1720-crawler-log-folder) |
 ## Two Pointers
 |  |
