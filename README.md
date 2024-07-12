@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1791-richest-customer-wealth](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1791-richest-customer-wealth) |
 | [1803-average-waiting-time](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1803-average-waiting-time) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3226-minimum-number-game](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/3226-minimum-number-game) |
 ## Prefix Sum
