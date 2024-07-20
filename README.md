@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0042-trapping-rain-water) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1137-height-checker](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1137-height-checker) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0042-trapping-rain-water) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
