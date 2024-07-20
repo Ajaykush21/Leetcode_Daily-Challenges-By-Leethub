@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0042-trapping-rain-water) |
+| [1137-height-checker](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1137-height-checker) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0726-number-of-atoms) |
+| [1137-height-checker](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -126,4 +128,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
