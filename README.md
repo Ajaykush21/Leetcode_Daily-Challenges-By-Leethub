@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0088-merge-sorted-array) |
 | [1137-height-checker](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1137-height-checker) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0088-merge-sorted-array) |
 | [0726-number-of-atoms](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0726-number-of-atoms) |
 | [1137-height-checker](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0088-merge-sorted-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
 |  |
