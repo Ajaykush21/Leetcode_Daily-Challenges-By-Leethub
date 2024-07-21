@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2472-build-a-matrix-with-conditions) |
 | [2714-left-and-right-sum-differences](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2714-left-and-right-sum-differences) |
 | [2846-robot-collisions](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2846-robot-collisions) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1791-richest-customer-wealth](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1791-richest-customer-wealth) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2472-build-a-matrix-with-conditions](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2472-build-a-matrix-with-conditions) |
 ## Greedy
 |  |
 | ------- |
@@ -140,4 +142,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1137-height-checker) |
+## Graph
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2472-build-a-matrix-with-conditions) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
