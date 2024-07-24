@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0088-merge-sorted-array) |
 | [1137-height-checker](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1137-height-checker) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1207-delete-nodes-and-return-forest) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1580-shuffle-the-array) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0088-merge-sorted-array) |
 | [0726-number-of-atoms](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0726-number-of-atoms) |
 | [1137-height-checker](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1137-height-checker) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1333-sort-the-jumbled-numbers) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
