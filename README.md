@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1511-count-number-of-teams) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1603-running-sum-of-1d-array) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0042-trapping-rain-water) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1511-count-number-of-teams) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -195,4 +197,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
