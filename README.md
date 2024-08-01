@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-build-a-matrix-with-conditions](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2502-sort-the-people) |
 | [2714-left-and-right-sum-differences](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2714-left-and-right-sum-differences) |
+| [2727-number-of-senior-citizens](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2846-robot-collisions) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/3226-minimum-number-game) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
