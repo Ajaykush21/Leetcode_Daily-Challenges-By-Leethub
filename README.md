@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0088-merge-sorted-array) |
+| [0921-spiral-matrix-iii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1137-height-checker) |
 | [1196-filling-bookcase-shelves](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1196-filling-bookcase-shelves) |
@@ -52,12 +53,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0921-spiral-matrix-iii) |
 | [1803-average-waiting-time](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1803-average-waiting-time) |
 | [2846-robot-collisions](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2846-robot-collisions) |
 | [3226-minimum-number-game](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/3226-minimum-number-game) |
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1677-matrix-diagonal-sum) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
