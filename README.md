@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0088-merge-sorted-array) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0948-sort-an-array) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0088-merge-sorted-array) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1137-height-checker) |
@@ -145,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0088-merge-sorted-array) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Dynamic Programming
@@ -253,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Recursion
 |  |
