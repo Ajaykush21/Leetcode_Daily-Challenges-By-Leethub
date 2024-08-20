@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1137-height-checker) |
 | [1196-filling-bookcase-shelves](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1207-delete-nodes-and-return-forest) |
+| [1240-stone-game-ii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1240-stone-game-ii) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1511-count-number-of-teams) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0273-integer-to-english-words) |
 | [0650-2-keys-keyboard](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0870-magic-squares-in-grid) |
+| [1240-stone-game-ii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1240-stone-game-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1240-stone-game-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2714-left-and-right-sum-differences) |
 ## Heap (Priority Queue)
@@ -165,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1240-stone-game-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -298,4 +302,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0040-combination-sum-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
