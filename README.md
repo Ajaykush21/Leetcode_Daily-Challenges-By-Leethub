@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1791-richest-customer-wealth](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1791-richest-customer-wealth) |
 | [1803-average-waiting-time](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1803-average-waiting-time) |
+| [2035-count-sub-islands](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2035-count-sub-islands) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1791-richest-customer-wealth](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1791-richest-customer-wealth) |
+| [2035-count-sub-islands](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2035-count-sub-islands) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2472-build-a-matrix-with-conditions) |
 ## Greedy
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Counting Sort
 |  |
@@ -275,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
@@ -297,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0999-regions-cut-by-slashes) |
+| [2035-count-sub-islands](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2035-count-sub-islands) |
 ## Strongly Connected Component
 |  |
 | ------- |
