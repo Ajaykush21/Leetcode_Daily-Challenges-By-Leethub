@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2155-find-missing-observations](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1240-stone-game-ii) |
+| [2155-find-missing-observations](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2155-find-missing-observations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Simulation
 |  |
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2155-find-missing-observations](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2155-find-missing-observations) |
 | [2846-robot-collisions](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/2846-robot-collisions) |
 | [3226-minimum-number-game](https://github.com/Ajaykush21/Leetcode_Daily-Challenges-By-Leethub/tree/master/3226-minimum-number-game) |
 ## Matrix
